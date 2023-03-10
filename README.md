@@ -1,5 +1,6 @@
 # etl-pipeline
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 ETL pipeline in Python to extract data from an XLSX file and load it into a Postgres database. 
 
 ## Table of Contents 
