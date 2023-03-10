@@ -11,8 +11,8 @@ import config.email as eml
 import os
 
 #get password from enviroment var
-pwd = os.environ['leonardo3223']
-uid = os.environ['UFC1993l//']
+pwd = os.environ['psw']
+uid = os.environ['psw']
 server = 'localhost'
 db= 'AdventureWorks'
 port = '5432'
